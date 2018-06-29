@@ -1,0 +1,24 @@
+.first-wrap {
+  display: flex;
+  
+/*   flex-wrap: nowrap; */
+}
+
+.second-wrap {
+  display: flex;
+}
+
+.first-item {
+  background: lightgreen;
+  
+}
+
+.second-item {
+  align-self: baseline;
+  background: pink;
+}
+
+
+.second-wrap {
+ background: lightgreen;
+ }
